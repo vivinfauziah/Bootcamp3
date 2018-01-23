@@ -1,0 +1,15 @@
+.redirect{
+    text-align: right;
+    color: white;
+    padding: 5px;
+    padding-right: 5px;
+    background-color: rgb(141, 138, 173)
+}
+
+.jumbotron{
+    padding: 200px;
+    color: white;
+    text-align: center;
+    height: 650px;
+    background-color: rgb(141, 138, 173)
+}
